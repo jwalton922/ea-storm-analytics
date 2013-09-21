@@ -1,0 +1,6 @@
+target/
+lib/
+*.log
+.idea
+.iml
+*.swp
